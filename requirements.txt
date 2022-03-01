@@ -14,3 +14,7 @@ matplotlib
 scikit-learn
 seaborn
 keras
+Python 3.10.2
+Flask 2.0.3
+Werkzeug 2.0.3
+
